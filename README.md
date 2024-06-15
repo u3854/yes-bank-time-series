@@ -1,1 +1,3 @@
-.
+# Time Series - Stock Closing Price Prediction
+
+This project aims to analyze monthly stock price data of Yes Bank, a prominent player in the Indian financial sector. The dataset comprises of closing, opening, highest, and lowest stock prices for each month. The primary objective is to develop a predictive model capable of forecasting the closing price of Yes Bank's stock for each month. Through comprehensive analysis and machine learning techniques, the project seeks to provide valuable insights into the stock's performance and offer predictive capabilities to stakeholders, aiding in informed decision-making within the financial domain.
